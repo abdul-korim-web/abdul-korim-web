@@ -2,30 +2,29 @@
 ![I am abdul-korim-web](https://github.com/abdul-korim-web/abdul-korim-web/blob/main/my-photo.jpg)
 
 <h1 align="center">Hi 👋, I'm <span>Abdul Korim</span></h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h3 align="center">Programmer | Web Developer | Speed Learner</h3>
+<h4 align="center">Student at Hablu Programmer</h4>
 
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=abdul-korim-web&color=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills:  REACT / JavaScript  / HTML / CSS / Tailwindcss / Git And Github 
 
 </div>
 
 - 🔭 I’m currently learning on [Hablu Programmer](https://www.hablu-programmer.com/)
 
-- 🌱 I’m currently learning Javascript , python , HTML , CSS3
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdul-korim-web](https://github.com/abdul-korim-web)
 
-- 📫 How to reach me **moneyschorsing@gmail.com**
+- 📫 How to reach me **abdulkorimwebdeveloper@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-    <a href="https://www.facebook.com/abdulkorimweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/abdulkorimweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Abdul korim" height="30" width="40" /></a>
 
     
 </p>
