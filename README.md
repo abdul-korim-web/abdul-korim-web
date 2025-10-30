@@ -1,5 +1,5 @@
 
-![I am abdul-korim-web](https://github.com/abdul-korim-web/abdul-korim-web/blob/main/my-photo.jpg)
+![I am abdul-korim-web](https://github.com/abdul-korim-web/abdul-korim-web/blob/main/aaa.png)
 
 <h1 align="center">Hi 👋, I'm <span>Abdul Korim</span></h1>
 <h3 align="center">Programmer | Web Developer | Speed Learner</h3>
