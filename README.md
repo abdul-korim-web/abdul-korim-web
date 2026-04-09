@@ -1,82 +1,99 @@
-
-![I am abdul-korim-web](https://github.com/abdul-korim-web/abdul-korim-web/blob/main/aaa.png)
-
-<h1 align="center">Hi 👋, I'm <span>Abdul Korim</span></h1>
-<h3 align="center">Programmer | Web Developer | Speed Learner</h3>
-<h4 align="center">Student at Hablu Programmer</h4>
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=abdul-korim-web&color=red)
-
-Skills:  REACT / JavaScript  / HTML / CSS / Tailwindcss / Git And Github 
-
-</div>
-
-- 🔭 I’m currently learning on [Hablu Programmer](https://www.hablu-programmer.com/)
-
-
-- 👨‍💻 All of my projects are available at [https://github.com/abdul-korim-web](https://github.com/abdul-korim-web)
-
-- 📫 How to reach me **abdulkorimwebdeveloper@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-
+<!-- Banner -->
 <p align="center">
-    <a href="https://www.facebook.com/abdulkorimweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Abdul korim" height="30" width="40" /></a>
-
-    
-</p>
-<p align="center">
-   <a   href="https://www.linkedin.com/in/abdul-korim-52b571353/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-korim-web" height="30" width="40" /></a>
-    
+  <img src="https://github.com/abdul-korim-web/abdul-korim-web/blob/main/github banner.png" alt="banner" />
 </p>
 
+---
 
-## Use To Code
+<h1 align="center">Hi 👋, I'm Abdul Korim</h1>
+<h3 align="center">MERN Stack Developer | Currently Looking for Opportunities</h3>
 
-
-
-<br/>
-
-## Best Repo -
-
-
-
-
-<br/>
-<hr/>
-<br/>
-
-## Github Stats -
+---
 
 <p align="center">
-  <a href="https://github.com/abdul-korim-web">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdul-korim-web&theme=radical" alt="Abdul Korim's GitHub Contribution"/>
+  <img src="https://komarev.com/ghpvc/?username=abdul-korim-web&color=red" alt="profile views"/>
+</p>
+
+---
+
+## 👋 About Me
+
+I’m a web developer who enjoys building real projects and solving problems.
+
+I’m continuously learning and improving my skills.
+
+Right now, I’m looking for an opportunity to start my career and grow as a developer.
+
+---
+
+## 🚀 What I'm Doing Now
+
+- 🌱 Learning and practicing **Next.js**
+- 💻 Building small projects to improve my **MERN stack skills**
+- 🔍 Actively looking for a **job or internship opportunity**
+- ⚡ Trying to write cleaner and better code every day
+
+---
+
+## 📍 Location & 📧 Contact
+
+- 📍 Bogra, Bangladesh  
+- 📧 abdulkorimwebdeveloper@gmail.com  
+
+---
+
+## 🛠️ Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind,git,github" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdul-korim-webdeveloper" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.facebook.com/abdulkorimweb" target="_blank">
+      <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" />
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/abdul-korim-web"><img alt="Abdul Korim's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abdul-korim-web&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/abdul-korim-web"><img alt="Abdul Korim's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abdul-korim-web&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+---
 
-![Abdul Korim's Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdul-korim-web&custom_title=Abdul Korim's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+## 💼 My Work
 
-<br/>
+You can check out all of my projects here:  
+🔗 https://github.com/abdul-korim-web
 
-<br/>
+---
 
-## Connect with me
+## 📊 GitHub Stats
 
-<div align="center">
-<br/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdul-korim-web&theme=radical" />
+</p>
 
-<a href="https://www.linkedin.com/in/abdul-korim-52b571353/" target="_blank">
+<p align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abdul-korim-web&show_icons=true&theme=react" width="49%" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abdul-korim-web&layout=compact&theme=react" width="49%" />
+</p>
 
-<a href="https://www.facebook.com/abdulkorimweb" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
-</a>  
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdul-korim-web&theme=react-dark" />
+</p>
+
+---
+
+## 🎯 My Goal
+
+I’m looking for an opportunity where I can learn from real-world experience,  
+work with a team, and grow as a developer.
+
+---
+
+## 🤝 Let’s Connect
+
+If you feel I could be a good fit for your team or project, don’t hesitate to reach out. 🙂
